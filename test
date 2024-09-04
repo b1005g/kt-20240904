@@ -1,1 +1,4 @@
 1
+
+pull = fetch + merge
+sync = pull + push
